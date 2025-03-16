@@ -18,7 +18,7 @@ Ensure you have the following installed:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/mouleshleo/toxic_comment_finder.git
+    git clone https://github.com/mouleshgs/toxic_comment_finder.git
     ```
 
 2. Navigate to the project directory:
